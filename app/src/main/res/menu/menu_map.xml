@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group
+        android:id="@+id/mapViewSetting"
+        android:enabled="true"
+        android:menuCategory="secondary"
+        android:visible="true">
+        <item
+            android:id="@+id/VNormal"
+            android:title="Normal View" />
+        <item
+            android:id="@+id/VHybrid"
+            android:title="Hybrid view" />
+        <item
+            android:id="@+id/VSatellite"
+            android:title="Satellite view" />
+        <item
+            android:id="@+id/VTerrain"
+            android:title="Terrain View" />
+    </group>
+
+</menu>
+
+

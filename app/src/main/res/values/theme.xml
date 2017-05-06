@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="MyAppTheme" parent="@android:style/Theme.Light.NoTitleBar">
+        <!-- Any customizations for your app running on pre-3.0 devices here -->
+        <item name="android:windowBackground">@color/background</item>
+        <item name="android:actionBarStyle">@style/ActionBarTheme</item>
+        <!--The above two of them are for the background theme color and the actionbar theme color-->
+        <!--BUT NOTE! they have the color has to be first defined inside color to be called here-->
+
+    </style>
+</resources>

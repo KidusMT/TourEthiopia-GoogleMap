@@ -1,0 +1,227 @@
+<resources>
+    <string name="app_name" translatable="true">TourEthiopia</string>
+    <string name="title_activity_available_cities">AvailableCities</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="useremail">adu.kidus@yahoo.com</string>
+    <string name="username">KidusMT</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <string name="opendrawer">Open navigation drawer</string>
+    <string name="closedrawer">Close navigation drawer</string>
+
+    <string-array name="localities">
+        <item>Mexico</item>
+        <item>Megenagna</item>
+        <item>Bole</item>
+        <item>Bole Michael</item>
+        <item>Radison Blue Hotel</item>
+        <item>Tor-hayloch</item>
+        <item>Bherawi</item>
+        <item>Piasa</item>
+        <item>Fil-Wiha</item>
+        <item>Bethel</item>
+        <item>Alem-Bank</item>
+        <item>Ayer Tena</item>
+        <item>Kotebe</item>
+        <item>Shiromeda</item>
+        <item>Lafto</item>
+        <item>Mebrat</item>
+        <item>Kera</item>
+        <item>Stadium</item>
+        <item>22 (haya-hulet)</item>
+        <item>lideta</item>
+        <item>Hayat</item>
+    </string-array>
+    <string-array name="suggestedLocation_all">
+        <item>Art Gallery</item>
+        <item>Banks</item>
+        <item>Beauty Salons</item>
+        <item>Bookstores</item>
+        <item>Cafes</item>
+        <item>Clothing Store</item>
+        <item>Embassy</item>
+        <item>Gas Stations</item>
+        <item>Gymnasiums</item>
+        <item>Hospital</item>
+        <item>Hotels</item>
+        <item>Movie Theatres</item>
+        <item>Museums</item>
+        <item>Night Clubs</item>
+        <item>Pharmacies</item>
+        <item>Places of Worship</item>
+        <item>Restaurants</item>
+        <item>Schools</item>
+        <item>Shopping Malls</item>
+        <item>Super Markets</item>
+        <item>Travel Agencies</item>
+    </string-array>
+
+    <string-array name="all_suggestions_hotel">
+        <item>Sheraton Addis Hotel</item>
+        <item>Elilly Hotel</item>
+        <item>Capital Hotel</item>
+        <item>Radison Blue Hotel</item>
+        <item>Intercontinental Hotel</item>
+        <item>Harmony Hotel</item>
+        <item>Dreamliner Hotel</item>
+        <item>Jupitor Hotel (cazanchis)</item>
+        <item>Saromaria Hotel</item>
+        <item>Debre Damo Hotel</item>
+        <item>Nazra Hotel</item>
+        <item>Frienship Hotel</item>
+        <item>Nexus Hotel</item>
+        <item>Washington Hotel</item>
+        <item>Sariem International Hotel</item>
+        <item>Jupitor Hotel (Bole)</item>
+        <item>Tegen Guest Accommodation Hotel</item>
+        <item>The recident Hotel</item>
+        <item>Umma Hotel</item>
+        <item>Hilton Addis Hotel</item>
+        <item>Syonat Hotel</item>
+        <item>Bear garden In Hotel</item>
+    </string-array>
+    <string-array name="all_suggestions_coffee">
+        <item>Tomoca-Coffee</item>
+        <item>Kaldis-Coffee</item>
+        <item>Yeshi-Coffee</item>
+        <item>New York Cafe</item>
+        <item>Go Sip Coffee</item>,
+        <item>La Parisienne</item>
+        <item>Lime Tree</item>
+        <item>Music Caffee</item>
+    </string-array>
+
+
+    <string name="low_internet_speed">
+        "internet data connection speed very low"
+        "please retry"
+    </string>
+
+    <string-array name="options">
+        <item>Clear Markers</item>
+        <item>Add to Favorite</item>
+        <item>Add Markerd</item>
+    </string-array>
+
+    <string-array name="sub_cities">
+        <item>Addis ketema</item>
+        <item>Akaky Kaliti</item>
+        <item>Arada</item>
+        <item>Bole</item>
+        <item>Gullele</item>
+        <item>Kirkos</item>
+        <item>Kolfe Keranio</item>
+        <item>Lideta</item>
+        <item>Nifas Silk-Lafto</item>
+        <item>Yeka</item>
+        <item>All at once</item>
+    </string-array>
+
+    <string-array name="MapDrawerEntryList">
+        <item>Home</item>
+        <item>Suggested</item>
+        <item>Favorite</item>
+        <item>Directions</item>
+        <item>Taxi</item>
+        <item>Bus</item>
+        <item>Train</item>
+        <item>Sub-Cities</item>
+    </string-array>
+
+    <!-- Strings related to Settings -->
+
+    <!-- Example General settings -->
+    <string name="pref_header_general">General</string>
+
+    <string name="pref_title_social_recommendations">Enable social recommendations</string>
+    <string name="pref_description_social_recommendations">Recommendations for people to contact
+        based on your message history
+    </string>
+
+    <string name="pref_title_display_name">Display name</string>
+    <string name="pref_default_display_name">John Smith</string>
+
+    <string name="pref_title_add_friends_to_messages">Add friends to messages</string>
+    <string-array name="pref_example_list_titles">
+        <item>Always</item>
+        <item>When possible</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_example_list_values">
+        <item>1</item>
+        <item>0</item>
+        <item>-1</item>
+    </string-array>
+
+    <string name="one">ONE</string>
+    <string name="three">THREE</string>
+    <string name="two">TWO</string>
+
+    <string-array name="tabs">
+        <item>Tab 1</item>
+        <item>Tab 2</item>
+        <item>Tab 3</item>
+    </string-array>
+
+    <!-- Example settings for Data & Sync -->
+    <string name="pref_header_data_sync">Data &amp; sync</string>
+
+    <string name="pref_title_sync_frequency">Sync frequency</string>
+    <string-array name="pref_sync_frequency_titles">
+        <item>15 minutes</item>
+        <item>30 minutes</item>
+        <item>1 hour</item>
+        <item>3 hours</item>
+        <item>6 hours</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_sync_frequency_values">
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>180</item>
+        <item>360</item>
+        <item>-1</item>
+    </string-array>
+
+    <string-array name="list_preference_entries">
+        <item>Entry 1</item>
+        <item>Entry 2</item>
+        <item>Entry 3</item>
+    </string-array>
+
+    <string-array name="list_preference_entry_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+    <string-array name="multi_select_list_preference_default_value" />
+
+    <string name="pref_title_system_sync_settings">System sync settings</string>
+
+    <!-- Example settings for Notifications -->
+    <string name="pref_header_notifications">Notifications</string>
+
+    <string name="pref_title_new_message_notifications">New message notifications</string>
+
+    <string name="pref_title_ringtone">Ringtone</string>
+    <string name="pref_ringtone_silent">Silent</string>
+
+    <string name="pref_title_vibrate">Vibrate</string>
+    <string name="title_activity_suggested">SuggestedActivity</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="lorem">Lorem Ipsum</string>
+    <string name="action_add_favourite" translatable="false">favorite</string>
+    <string name="action_play_next">play</string>
+    <string name="tourethiopia">TourEthiopia</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_mappp">Map</string>
+</resources>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/map_home"
+            android:icon="@drawable/nav_home"
+            android:title="Home" />
+        <item
+            android:id="@+id/map_suggested"
+            android:icon="@drawable/nav_suggestion"
+            android:title="Suggested" />
+        <item
+            android:id="@+id/map_fav"
+            android:icon="@drawable/nav_fav"
+            android:title="Favorite" />
+        <item
+            android:id="@+id/map_direction"
+            android:icon="@drawable/map_direction"
+            android:title="Directions"/>
+
+        <item
+            android:id="@+id/map_subCities"
+            android:icon="@drawable/map_city"
+            android:title="SubCities" />
+    </group>
+
+    <item android:title="Transportation">
+        <menu>
+            <item
+                android:id="@+id/map_taxi"
+                android:icon="@drawable/map_taxi"
+                android:title="Taxi" />
+            <item
+                android:id="@+id/map_bus"
+                android:icon="@drawable/map_bus"
+                android:title="Bus" />
+            <item
+                android:id="@+id/map_train"
+                android:icon="@drawable/map_train"
+                android:title="Train" />
+        </menu>
+    </item>
+
+</menu>
